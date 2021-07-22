@@ -1,0 +1,20 @@
+
+
+
+
+
+What is the difference between = and ==?​
+
+Answer = is used for assigning values to a variable, == is used for comparing two variables
+
+Can I leave out the colon in an if, while, or for statement? Yes/No​
+
+No
+
+Should I use tab characters to indent my code? Yes/No​
+
+Yes
+
+Compose a program that takes three integer command-line arguments and writes 'equal' if all three are equal, and 'not equal' otherwise.​
+
+
